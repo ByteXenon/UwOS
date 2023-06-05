@@ -5,6 +5,8 @@ The primary and only feature of this OS is to display the strings "UwU" and "OwO
 
 ## Screenshot
 
+![image](https://github.com/ByteXenon/UwOS/assets/125568681/4854a927-6f2f-4351-9e51-bb3d250acfda)
+
 
 ## Prerequisites
 
